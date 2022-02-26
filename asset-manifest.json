@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AbhiReactWeb/static/css/main.427a6e61.chunk.css",
+    "main.js": "/AbhiReactWeb/static/js/main.60f802fe.chunk.js",
+    "main.js.map": "/AbhiReactWeb/static/js/main.60f802fe.chunk.js.map",
+    "runtime-main.js": "/AbhiReactWeb/static/js/runtime-main.b3af76c2.js",
+    "runtime-main.js.map": "/AbhiReactWeb/static/js/runtime-main.b3af76c2.js.map",
+    "static/js/2.ff4b049b.chunk.js": "/AbhiReactWeb/static/js/2.ff4b049b.chunk.js",
+    "static/js/2.ff4b049b.chunk.js.map": "/AbhiReactWeb/static/js/2.ff4b049b.chunk.js.map",
+    "index.html": "/AbhiReactWeb/index.html",
+    "static/css/main.427a6e61.chunk.css.map": "/AbhiReactWeb/static/css/main.427a6e61.chunk.css.map",
+    "static/js/2.ff4b049b.chunk.js.LICENSE.txt": "/AbhiReactWeb/static/js/2.ff4b049b.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/AbhiReactWeb/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/AbhiReactWeb/static/media/award.a796a64f.png",
+    "static/media/email.a49e0158.png": "/AbhiReactWeb/static/media/email.a49e0158.png",
+    "static/media/me.262c3b9c.png": "/AbhiReactWeb/static/media/me.262c3b9c.png",
+    "static/media/moon.3bea3d39.png": "/AbhiReactWeb/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/AbhiReactWeb/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/AbhiReactWeb/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3af76c2.js",
+    "static/js/2.ff4b049b.chunk.js",
+    "static/css/main.427a6e61.chunk.css",
+    "static/js/main.60f802fe.chunk.js"
+  ]
+}
